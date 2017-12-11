@@ -9,3 +9,6 @@ Collection of useful links for vue users
 * https://github.com/vue-comps/vue-clusterize
 
 
+## State management
+* https://github.com/vuejs/vuex
+
