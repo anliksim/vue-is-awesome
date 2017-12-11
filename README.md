@@ -12,3 +12,6 @@ Collection of useful links for vue users
 ## State management
 * https://github.com/vuejs/vuex
 
+## Devtools
+* https://github.com/vuejs/vue-devtools
+
