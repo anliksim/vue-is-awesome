@@ -12,7 +12,7 @@ Collection of useful links for vue users
 ## State management
 * https://github.com/vuejs/vuex
   * #### Plugins
-  * https://github.com/championswimmer/vuex-persist
+  * https://github.com/robinvdvleuten/vuex-persistedstate
 
 ## Devtools
 * https://github.com/vuejs/vue-devtools
