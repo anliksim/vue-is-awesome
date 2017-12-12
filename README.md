@@ -2,7 +2,8 @@
 Collection of useful links for vue users
 
 ## HTTP client 
-* https://github.com/pagekit/vue-resource
+* https://github.com/imcvampire/vue-axios
+* https://github.com/axios/axios
 
 
 ## Big data
